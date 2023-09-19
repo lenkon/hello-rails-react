@@ -80,6 +80,7 @@ Install this project with:
 ```
   $ cd hello-rails-react
   $ bundle install
+  $ bundle exec rails db:create db:migrate db:seed
 ```
 
 ### Usage
